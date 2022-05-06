@@ -16,9 +16,15 @@
     "Home"
   ],
   "author": "Emil",
-  "license": "ISC",
+  "license": "Apache",
   "bugs": {
     "url": "https://github.com/getintelect/website/issues"
   },
-  "homepage": "https://github.com/getintelect/website#readme"
+  "homepage": "https://github.com/getintelect/website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "kutty": "^0.6.0"
+  }
 }
